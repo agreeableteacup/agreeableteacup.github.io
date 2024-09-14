@@ -16,7 +16,6 @@ header {
 
 #menu {
     padding: 32px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(160,82,45);
     grid-area: menu;
    }
@@ -27,6 +26,7 @@ nav{
     display: flex;
     align-items: center;
     flex-flow: column;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     list-style: none;
     text-decoration: none;
 }
