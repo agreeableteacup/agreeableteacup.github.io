@@ -7,6 +7,9 @@ header {
     background-color: rgb(139,69,19);
     color: white;
     text-align: center;
+    box-shadow: 8px 8px 10px 3px rgb(231, 220, 0);
+    width: 16%;
+    text-shadow: 1px 1px 0px black, -1px 1px 0px black, 1px -1px 0px black, -1px -1px 0px black;
     grid-area: header;
    }
 
@@ -18,7 +21,7 @@ header {
 
 
 nav{
-    margin-top: 20px;
+    margin-top: 32px;
     display: flex;
     align-items: center;
     flex-flow: column;
@@ -47,5 +50,5 @@ footer {
     "menu  main"
     "footer  footer"
     ;
-    grid-template-columns: 2fr 8fr;
+    grid-template-columns: 1fr 9fr;
 }
