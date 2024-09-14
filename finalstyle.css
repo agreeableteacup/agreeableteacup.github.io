@@ -4,7 +4,7 @@ body{
 
 header {
     padding: 16px;
-    background-color: orange;
+    background-color: rgb(139,69,19);
     color: white;
     text-align: center;
     grid-area: header;
@@ -12,7 +12,7 @@ header {
 
 #menu {
     padding: 32px;
-    background-color: darkgoldenrod;
+    background-color: rgb(160,82,45);
     grid-area: menu;
    }
 
@@ -31,7 +31,7 @@ nav{
 
 footer {
     padding: 16px;
-    background-color: orange;
+    background-color: rgb(210,105,30);
     color: white;
     font-weight: bold;
     text-align: center;
