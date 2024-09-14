@@ -33,6 +33,7 @@ nav{
 
 #main-content {
    padding: 32px; 
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    grid-area: main;
    }
 
