@@ -22,6 +22,8 @@ nav{
     display: flex;
     align-items: center;
     flex-flow: column;
+    list-style: none;
+    text-decoration: none;
 }
 
 #main-content {
@@ -32,7 +34,7 @@ nav{
 footer {
     padding: 16px;
     background-color: rgb(210,105,30);
-    color: white;
+    color: black;
     font-weight: bold;
     text-align: center;
     grid-area: footer;
